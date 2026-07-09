@@ -6,15 +6,10 @@ Hi! I'm Ada Conway, I am a computer scientist and mathematician passionate about
  - 😄 Pronouns: She/They
  - 💬 Ask me about quaternions
 ## Technical skills
-**Expert Level** - The technologies that I have the most experience with
- - Math - Abstract Algebra, Automata & FLT, Graph Theory
- - SQL - PostgreSQL, PL/PGSQL, SQL, database theory, Index/Query Optimization
- - RESTful APIs - MVC, middleware, authorized endpoints
- - TS/JS - React, Zustand, NestJS, TypeORM
- - DevSecOps - iptables
 
 **Comfortable With** - The technologies that I have used extensively and am comfortable with
  - C++ - STL, Boost, Boost.Test
+ - SQL - Postgres, PL/PGSQL, SQL, Database Thoery
  - Authentication - PKCE flow, OIDC, Auth0, JWTs
  - DevSecOps - Docker, Nginx, VPS setup and hardening, Github actions, continuous deployment, SSH
  - Linux - Ubuntu, Debian, Bash
