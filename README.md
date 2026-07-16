@@ -13,10 +13,6 @@ Hi! I'm Ada Conway, I am a computer scientist and mathematician passionate about
  - Authentication - PKCE flow, OIDC, Auth0, JWTs
  - DevSecOps - Docker, Nginx, VPS setup and hardening, Github actions, continuous deployment, SSH
  - Linux - Ubuntu, Debian, Bash
- - Operating Systems - traps, processes, memory virtualization, x86 assembly
- - C# - .NET
- - Python - Pygame, Pytorch, Tensorflow
- - Java - FRC Robotics
  - CSS - Tailwind, StyledComponents
  - Theory - Game Theory Foundations, Optimization Theory, Linear Algebra, Differential Equations, Stats Theory
 
