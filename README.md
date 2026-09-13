@@ -1,8 +1,8 @@
 # Ada Conway
 
 ## About Me
-Hi! I'm Ada Conway, I am a computer scientist and mathematician passionate about delivering high-quality database solutions, secure systems, and well-written back-end code.
- - 📫 How to reach me: [e-mail](mailto://justice@conway.engineer)
+Hi! I'm Ada Conway, I do math, sometimes it works.
+ - 📫 How to reach me: [e-mail](mailto://ada@conway.engineer)
  - 😄 Pronouns: She/They
  - 💬 Ask me about quaternions
 ## Technical skills
